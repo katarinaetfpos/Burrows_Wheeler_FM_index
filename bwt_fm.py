@@ -5,7 +5,7 @@ from os.path import isfile
 ###########################################################################################
 
 """ Default file for processing """
-file_name = 'proba.fa'
+file_name = '4615_ref_ASM154086v1_chr25.fa'
 
 ###########################################################################################
 
@@ -96,11 +96,11 @@ def input_parameters():
     t = input()
 
     if not p1:
-        p1 = 'TTGCATT'
+        p1 = 'CTAAATT'
     if not p2:
-        p2 = 'AAATCCTTAC'
+        p2 = 'GTGTGCCT'
     if not p3:
-        p3 = 'AAGTCATTTTCTCAAT'
+        p3 = 'AAACCCTAATATG'
     if not s:
         s = 1
     if not t:
