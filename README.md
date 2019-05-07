@@ -33,3 +33,4 @@ In case you want to run optimized solution you should pass two integer values.
 ## Video presentation
 
 Video presentation in available on YouTube: https://www.youtube.com/watch?v=YYzolQjCGtw
+Presentation is available on Google Drive: https://drive.google.com/file/d/1g75UadA5rE8RmU2PHV8EY_PK8D1volzf/view?usp=sharing
